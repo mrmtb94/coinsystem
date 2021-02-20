@@ -1,0 +1,6 @@
+name: Coinsystem
+version: 1.0
+author: mrmtb94
+main: at.mrmtb94.coinsystem.Coinsystem
+api-version: 1.16
+depend: [ProtocolLib]
